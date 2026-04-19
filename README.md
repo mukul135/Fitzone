@@ -64,23 +64,23 @@ Each program can be registered for **directly from the Programs page** — no ha
 
 > *(Replace these with actual screenshots of your project)*
 
-| Home Page | Programs Page |
-|-----------|---------------|
-|<img width="1175" height="644" alt="Screenshot 2026-04-19 175450" src="https://github.com/user-attachments/assets/36873764-9fa7-46ef-9a7d-9a37ce6d0d91" />
- | <img width="1066" height="474" alt="Screenshot 2026-04-19 175511" src="https://github.com/user-attachments/assets/7295b076-40b7-4f2e-aa49-e83c397d7ca6" />
- |
+| Home Page |
+|-----------|
+|<img width="1175" height="644" alt="Screenshot 2026-04-19 175450" src="https://github.com/user-attachments/assets/36873764-9fa7-46ef-9a7d-9a37ce6d0d91" />|
+| Programs Page |
+|---------------|
+|<img width="1066" height="474" alt="Screenshot 2026-04-19 175511" src="https://github.com/user-attachments/assets/7295b076-40b7-4f2e-aa49-e83c397d7ca6" />|
 
-| Member Dashboard | AI Diet Planner |
-|------------------|-----------------|
-| <img width="641" height="514" alt="Screenshot 2026-04-19 175658" src="https://github.com/user-attachments/assets/b249a538-7382-4289-a1b6-8049e08d43a4" />
- | <img width="677" height="645" alt="Screenshot 2026-04-19 175733" src="https://github.com/user-attachments/assets/65bb67f6-ccef-4173-bbb6-5b25d6ab64c1" />
- |
+| Member Dashboard | 
+|------------------|
+| <img width="641" height="514" alt="Screenshot 2026-04-19 175658" src="https://github.com/user-attachments/assets/b249a538-7382-4289-a1b6-8049e08d43a4" />|
+| AI Diet Planner |
+|-----------------|
+|<img width="677" height="645" alt="Screenshot 2026-04-19 175733" src="https://github.com/user-attachments/assets/65bb67f6-ccef-4173-bbb6-5b25d6ab64c1" />|
 
 ---
 
 ## 🛠️ Tech Stack
-
-> *(Update this section based on the actual technologies you used)*
 
 **Frontend:**
 - HTML5, CSS3
