@@ -10,12 +10,15 @@ app.secret_key = "fitzone_secret_key"
 # DATABASE CONNECTION
 # ===============================
 
-db = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    password="root",
-    database="gym_db"
-)
+try:
+    db = mysql.connector.connect(
+        host="localhost",
+        user="root",
+        password="yourpassword",
+        database="gym_db"
+    )
+except:
+    db = None
 
 cursor = db.cursor()
 
