@@ -15,7 +15,7 @@
 
 ## 🌐 Live Demo
 
-🔗 [Click here to view the live project](http://127.0.0.1:5000/)
+🔗 [Click here to view the live project](https://drive.google.com/file/d/1faPxSk5k_VZTYIrKCzrjO-gwTdi4bUmq/view?usp=drive_link)
 
 ---
 
